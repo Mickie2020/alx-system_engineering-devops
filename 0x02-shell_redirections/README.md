@@ -1,2 +1,1 @@
-0x02. Shell, I/O Redirections and filters
-README.md
+0x02-shell_redirections
